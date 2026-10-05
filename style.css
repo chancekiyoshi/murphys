@@ -1,0 +1,27 @@
+/* Custom styling for navbar links hover state if needed */
+.navbar .nav-link {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.navbar .nav-link:hover {
+  color: #ccc !important;
+}
+
+/* Green Navbar Background */
+.murphys-navbar {
+  background-color: #004d25;
+}
+
+.murphys-hero {
+  background: url('murphysBuilding.png') no-repeat center center;
+  background-size: cover;
+  height: 500px;
+}
+
+.footer-background {
+  background-color: #004d25;
+  color: white;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
